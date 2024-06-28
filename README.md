@@ -2,9 +2,6 @@
 <h2>Desafio: Classificador de Nível de Heroi</h2>
 rep: anaidev/desafio_logica_inicial_dio
 <h2>Instruções</h2>
-Instruções para entrega
-
-# 1️⃣ Desafio Classificador de nível de Herói
 
 **O Que deve ser utilizado**
 
@@ -17,14 +14,14 @@ Instruções para entrega
 
 Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilize uma estrutura de decisão para apresentar alguma das mensagens abaixo:
 
-Se XP for menor do que 1.000 = Ferro
-Se XP for entre 1.001 e 2.000 = Bronze
-Se XP for entre 2.001 e 5.000 = Prata
-Se XP for entre 5.001 e 7.000 = Ouro
-Se XP for entre 7.001 e 8.000 = Platina
-Se XP for entre 8.001 e 9.000 = Ascendente
-Se XP for entre 9.001 e 10.000= Imortal
-Se XP for maior ou igual a 10.001 = Radiante
+Se XP for menor do que 1.000 = Ferro<br>
+Se XP for entre 1.001 e 2.000 = Bronze<br>
+Se XP for entre 2.001 e 5.000 = Prata<br>
+Se XP for entre 5.001 e 7.000 = Ouro<br>
+Se XP for entre 7.001 e 8.000 = Platina<br>
+Se XP for entre 8.001 e 9.000 = Ascendente<br>
+Se XP for entre 9.001 e 10.000= Imortal<br>
+Se XP for maior ou igual a 10.001 = Radiante<br>
 
 ## Saída
 
